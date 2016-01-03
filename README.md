@@ -25,4 +25,4 @@ When wrapped `letsencrypt` command successfully exits, this script looks for all
 
 ## License
 
-MIT
+Dual-licensed MIT and Apache-2.0.
