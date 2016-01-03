@@ -17,6 +17,7 @@ sudo docker run -it --rm -p 443:443 -p 80:80 --name letsencrypt \
 
 - http://letsencrypt.readthedocs.org/en/latest/using.html#running-with-docker
 - https://blog.brixit.nl/automating-letsencrypt-and-haproxy
+- http://blog.defsdoor.org/using-letsencrypt-ssl-certificates/
 - https://github.com/Levino/letsencrypt-cert-service
 
 ## How it works
