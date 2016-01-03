@@ -1,6 +1,6 @@
 # Let's Encrypt HAProxy
 
-A [Let's Encrypt](https://github.com/letsencrypt/letsencrypt) wrapper that generates an extra `/etc/letsencrypt/DOMAIN/live/haproxy.pem` file compatible with [HAProxy](https://serversforhackers.com/using-ssl-certificates-with-haproxy) crt configuration option.
+A [Let's Encrypt](https://github.com/letsencrypt/letsencrypt) wrapper that generates an extra `haproxy.pem` file compatible with [HAProxy](https://serversforhackers.com/using-ssl-certificates-with-haproxy) crt configuration option.
 
 ## Usage
 
